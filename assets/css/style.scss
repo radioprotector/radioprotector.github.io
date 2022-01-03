@@ -1,0 +1,26 @@
+$header-heading-color: #fff;
+$header-bg-color: #9932cc;
+$header-bg-color-secondary: #6a5acd;
+
+$section-headings-color: #bb00cc;
+$body-text-color: #e6e6fa;
+$body-link-color: #cc55d3;
+$blockquote-text-color: #eeccee;
+
+$code-bg-color: #32174d;
+$code-text-color: #f6f3fa;
+
+$border-color: #483d8b;
+$table-border-color: #4b0082;
+$hr-border-color: #663399;
+
+@import "{{ site.theme }}";
+
+html {
+  background-color: #101;
+}
+
+// Override the white background for this, since we don't really care about syntax highlighting
+.highlight {
+  background-color: inherit;
+}
