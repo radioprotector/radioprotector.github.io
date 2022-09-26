@@ -18,3 +18,10 @@ fluidmotion is a browser-based wave pool simulator implemented in React and thre
 
 - [Try it out](https://radioprotector.github.io/fluidmotion/)
 - [View the source](https://github.com/radioprotector/fluidmotion)
+
+![fermata banner](./assets/img/fermata-banner.png)
+
+fermata is a browser-based flocking simulator implemented in React, three.js, and Tone.js.
+
+- [Try it out](https://radioprotector.github.io/fermata/)
+- [View the source](https://github.com/radioprotector/fermata)
